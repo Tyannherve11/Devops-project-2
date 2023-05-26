@@ -21,6 +21,7 @@ sudo systemctl status nginx
 ```
 
 If it is green and running, then you did everything correctly – you have just launched your first Web Server in the Clouds!
+![image](https://github.com/Tyannherve11/Devops-project-2/assets/37128739/a9a535b9-260f-4c6b-956c-c990ec799264)
 
 Before we can receive any traffic by our Web Server, we need to open TCP port 80 which is default port that web brousers use to 
 access web pages in the Internet.
